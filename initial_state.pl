@@ -18,3 +18,5 @@ solution(l8).
 solution(l9).
 
 sokoban(l7).
+
+initial_state(state(l7, [l5, l6])).
